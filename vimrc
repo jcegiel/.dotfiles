@@ -10,10 +10,9 @@ set encoding=utf-8
 set autoread
 set hlsearch
 "set colorcolumn=81
-
+set background=dark
 colorscheme elflord
-
-syntax on
+syntax enable
 filetype on
 
 "Setting  autoindening for all filetypes
@@ -25,7 +24,6 @@ autocmd FileType javascript setlocal expandtab shiftwidth=2 tabstop=2
 :nmap <c-s> :w<CR>
 :imap <c-s> <Esc>:w<CR>a
 :imap <c-s> <Esc><c-s>
-
 
 "Filetype configuration
 au BufNewFile,BufRead *.jst set filetype=html
