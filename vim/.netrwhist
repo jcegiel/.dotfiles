@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/jcegiel/projects/wp/theme/dev/style'
-let g:netrw_dirhist_2='/home/jcegiel'
-let g:netrw_dirhist_3='/home/jcegiel/projects/NK-15175/data/include/photos'
-let g:netrw_dirhist_4='/home/jcegiel/.vim'
-let g:netrw_dirhist_5='/home/jcegiel/projects/NK-15726/htdocs/style'
-let g:netrw_dirhist_6='/home/jcegiel/.ssh'
-let g:netrw_dirhist_7='/home/jacek/.dotfiles/.git'
