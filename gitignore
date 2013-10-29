@@ -1,0 +1,9 @@
+# System files
+._*
+Thumbs.db
+.sass-cache
+
+# Vim swap and backup files
+*.swo
+*.swp
+
