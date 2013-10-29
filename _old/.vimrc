@@ -1,1 +1,0 @@
-/home/jacek/dotfiles/vimrc
