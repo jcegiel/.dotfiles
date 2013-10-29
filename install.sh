@@ -12,7 +12,7 @@ COL_CYAN=$ESC_SEQ"36;01m"
 
 dir=~/.dotfiles                    # dotfiles directory
 olddir=~/.dotfiles/_old            # old dotfiles backup directory
-files="vimrc vim"                  # list of files/folders to symlink in homedir
+files="vimrc vim gitconfig"        # list of files/folders to symlink in homedir
                                    # bashrc vimrc vim zshrc oh-my-zsh private scrotwm.conf Xresources
 
 # create dotfiles_old in homedir
